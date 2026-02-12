@@ -1,0 +1,3 @@
+Lab 3 - Exploratory Data Analysis (EDA)
+
+Chocolate sales dataset analysis will be added here.
