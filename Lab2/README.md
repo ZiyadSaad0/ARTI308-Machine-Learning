@@ -1,1 +1,3 @@
-Lab 2 files will be here
+Lab 2 - ML Problem Identification
+
+Dataset and problem definition will be added here.
